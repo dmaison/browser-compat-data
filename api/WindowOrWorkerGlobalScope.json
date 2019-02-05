@@ -23,7 +23,7 @@
             "version_added": "52"
           },
           "ie": {
-            "version_added": null
+            "version_added": false
           },
           "opera": {
             "version_added": null
@@ -606,7 +606,7 @@
               }
             ],
             "ie": {
-              "version_added": false
+              "version_added": 10
             },
             "opera": [
               {
